@@ -1,3 +1,4 @@
+
 # Task-02: Image Generation with Pre-trained Models
 
 ## Objective
@@ -36,3 +37,5 @@ The generated image is saved in:
 
 ```bash
 python -m venv venv
+
+
